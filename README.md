@@ -3,7 +3,7 @@
 ### 🌐 Jisu Nam 
   ✨ Web/Backend Developer ✨
   
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Velog](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white) 
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white) 
 
    
 
