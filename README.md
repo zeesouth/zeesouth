@@ -34,8 +34,8 @@ etc
   
 ### 🌱 Solved.ac
   
-  <img src="http://mazandi.herokuapp.com/api?handle=anm0307&theme=warm"/>
-
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=anm0307)](https://solved.ac/anm0307)
   
   <br/>
   
