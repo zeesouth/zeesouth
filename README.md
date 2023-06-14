@@ -29,19 +29,3 @@ Front
 etc
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-  <br/>
-  
-### 🌱 Solved.ac
-  
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=anm0307)](https://solved.ac/anm0307)
-  
-  <br/>
-  
-### ✅ Stat
-  
-  [![zeesouth's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeesouth)](https://github.com/zeesouth/github-readme-stats)
-  
-</div>
-  
